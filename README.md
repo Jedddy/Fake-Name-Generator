@@ -10,5 +10,5 @@ A simple Name Generator
 .
 .
 First name json source: https://github.com/dominictarr/random-name/blob/master/first-names.json
-
+.
 Surname json source: https://github.com/rossgoodwin/american-names/blob/master/surnames.json
